@@ -49,13 +49,14 @@ Letting John explain first: You start by asking John to explain the situation fr
  - Total: round(((Engagement * Output) / 100) - (100 - Resources))
 
 # Feedback
-You probably picked this conversation style, because you want to give John a chance to explain the situation from his perspective. And it a good skill to listen to your employees. 
+You probably picked this conversation style, because you wanted to give John a chance to explain the situation from his perspective. And it a good skill to listen to your employees. 
 
 But it could also lead to a discussion and as you already made your decision, this conversation style might be an uneasy choice. You need to explain what decision you made and why.
 
-The best choice here is appreciate Johns strengths first, to make certain that the discussion is not only about his challenges. This increases the chance that he is not in a defensive position, but is willing to cooperate. 
+The best choice here is appreciate John's strengths first, to make certain that the discussion is not only about his challenges. This increases the chance that he is not in a defensive position, but is willing to cooperate. 
 
 Great that you didn't choose to let your HR Partner handle the conversation. You are taking responsibility for your decision. 
+
 Also good that you didn't choose to keep an open mind - you have already checked with employees - and another round may probably not change a lot in the conclusion. It will just waste time and take the atmosphere in the team from bad to worse.
 
 
@@ -76,7 +77,7 @@ You chose letting your HR Partner handling the conversation with John about relo
 
 Your HR Partner is definitely a resource you can use in this situation as support or preparing yourself for the conversation. But you need to take responsibility for your decision. 
 
-The best choice here is appreciate Johns strengths first, to make certain that the discussion is not only about his challenges. This increases the chance that he is not in the defensive position, but is willing to cooperate. 
+The best choice here is appreciate John's strengths first, to make certain that the discussion is not only about his challenges. This increases the chance that he is not in the defensive position, but is willing to cooperate. 
 
 You could also have started the conversation by letting John explain first, but this could have led to a discussion and making it difficult explain why you have decided to move John. 
 
@@ -98,7 +99,7 @@ Keep an open mind: You take an open talk with John (you might have missed someth
 # Feedback
 You chose to check again. Maybe you are afraid that analysis is not substantial enough? Or hoped that the problem just disappears again? But you have already checked with employees and completed an analyses - so another round will probably not change a lot in the conclusion.
 
-The best choice here is appreciate Johns strengths first, to make certain that the discussion is not only about his challenges. This increases the chance that he is not in the defensive position, but is willing to cooperate. 
+The best choice here is appreciate John's strengths first, to make certain that the discussion is not only about his challenges. This increases the chance that he is not in the defensive position, but is willing to cooperate. 
 
 You could also have started the conversation by letting John explain first, but this could have led to a discussion and making it difficult explain why you have decided to move John. 
 
