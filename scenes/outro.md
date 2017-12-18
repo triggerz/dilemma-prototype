@@ -1,7 +1,11 @@
 # Config
  - Title: Congratulations
- - Video: https://www.youtube.com/watch?v=S8fbHm0yYQI
+ - Image: http://res.cloudinary.com/triggerz/image/upload/v1513598129/download_gv6dz4.png
 
 # Description
-You've completed the daily dilemma.
-You can now go on with your day.
+You've completed the daily dilemmas.
+
+Focus on your total score: how was you overall performance?
+Consider what you could have differently for next time. 
+
+
