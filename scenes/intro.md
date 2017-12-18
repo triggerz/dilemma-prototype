@@ -1,7 +1,7 @@
 # Config
  - Title: Introduction to DAILY DILEMMAS
  - Next: shift
- - Image: https://triggerz.github.io/dilemma-prototype/donut.jpg
+ - Image: http://res.cloudinary.com/triggerz/image/upload/v1513608100/shutterstock_536177023_1_yikfgf.jpg
 
 # Description
 In the following you will face a series of difficult situations. For each situation you must decide what to do based on a list of 3-4 different options. 
