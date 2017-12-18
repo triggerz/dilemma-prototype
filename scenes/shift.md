@@ -42,7 +42,7 @@ You experienced a positive effect in output (+2) but it costed some in Lilly's e
 
 
 # Choice
-Jonas? When you him asked the first time, he really wanted to help, but couldn't because he had promised to drive his son to the dentist tomorrowself
+Jonas? When you him asked the first time, he really wanted to help, but couldn't because he had promised to drive his son to the dentist tomorrow.
 
 # Variables
  - Resources: -1
