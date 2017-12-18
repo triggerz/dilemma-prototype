@@ -1,7 +1,7 @@
 # Config
  - Title: Who to ask to take an extra shift?
  - Image: https://triggerz.github.io/dilemma-prototype/woman.jpg
- - Next: outro
+ - Next: conflict
 
 # Description
 There is a flu going round, and you just received a message that Joan will not be coming in tomorrow morning. 
