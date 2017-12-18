@@ -1,6 +1,6 @@
 # Config
  - Title: Who to ask to take an extra shift?
- - Image: https://flemmingfog.github.io/spike/woman.jpg
+ - Image: https://triggerz.github.io/dilemma-prototype/woman.jpg
  - Next: outro
 
 # Description
