@@ -16,7 +16,7 @@ After analyzing the options, the conclusion is clear: You need to relocate John 
 How will you handle the conversation with John?
 
 # Choice
-Appreciative: You start by complimenting John's work in the team. And then you explain why John need to be relocated 
+Appreciative: You start by complimenting John's work in the team. And then you explain why John need to be relocated. 
 
 # Variables
  - Resources: -1
@@ -25,11 +25,11 @@ Appreciative: You start by complimenting John's work in the team. And then you e
  - Total: round(((Engagement * Output) / 100) - (100 - Resources))
 
 # Feedback
-Appreciative: You probably picked this conversation style, because this shows John that you not only see his problems but also his strengths. 
+You probably picked this conversation style, because this showed John that you not only see his problems but also his strengths. 
 
 It increased the chance that he did not go into a defensive position, but was willing to cooperate. This gave you the chance to explain your decision in clear and precise terms.
 
-That was great choice. John understood the situation and was feeling quite relieved that you found a solution. 
+That was great choice. John understood the situation and felt quite relieved that you found a solution. 
 You could also have started the conversation by letting John explain first, but this would have led to a discussion, making it difficult explain why you had decided to move John. 
 
 Great that you didn't choose to let your HR Partner handle the conversation. You are taking responsibility for your decision. 
@@ -49,7 +49,7 @@ Letting John explain first: You start by asking John to explain the situation fr
  - Total: round(((Engagement * Output) / 100) - (100 - Resources))
 
 # Feedback
-Letting John explain first: You probably picked this conversation style, because you want to give John a chance to explain the situation from his perspective. And it a good skill to listen to your employees. 
+You probably picked this conversation style, because you want to give John a chance to explain the situation from his perspective. And it a good skill to listen to your employees. 
 
 But it could also lead to a discussion and as you already made your decision, this conversation style might be an uneasy choice. You need to explain what decision you made and why.
 
@@ -72,7 +72,7 @@ Ask HR for help: Ask your HR Partner to inform John about his relocation.
  - Total: round(((Engagement * Output) / 100) - (100 - Resources))
 
 # Feedback
-Ask HR for help: You chose letting your HR Partner handling the conversation with John about relocation. Maybe you chose this solution, because you are trying to avoid a potential conflict? 
+You chose letting your HR Partner handling the conversation with John about relocation. Maybe you chose this solution, because you are trying to avoid a potential conflict? 
 
 Your HR Partner is definitely a resource you can use in this situation as support or preparing yourself for the conversation. But you need to take responsibility for your decision. 
 
@@ -96,7 +96,7 @@ Keep an open mind: You take an open talk with John (you might have missed someth
  - Total: round(((Engagement * Output) / 100) - (100 - Resources))
 
 # Feedback
-Keep an open mind: You chose to check again. Maybe you are afraid that analysis is not substantial enough? Or hoped that the problem just disappears again? But you have already checked with employees and completed an analyses - so another round will probably not change a lot in the conclusion.
+You chose to check again. Maybe you are afraid that analysis is not substantial enough? Or hoped that the problem just disappears again? But you have already checked with employees and completed an analyses - so another round will probably not change a lot in the conclusion.
 
 The best choice here is appreciate Johns strengths first, to make certain that the discussion is not only about his challenges. This increases the chance that he is not in the defensive position, but is willing to cooperate. 
 
