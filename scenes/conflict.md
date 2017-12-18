@@ -107,5 +107,5 @@ Great that you didn't choose to let your HR Partner handle the conversation, sin
 
 
 # Outcome
-Since you didn't move John you still experienced a negative effect in output (-3), engagement in the team is also decreasing (-3), but no resources are used (Resources 0).
+Since you didn't move John you still experienced a negative effect in output (-3), engagement in the team is also decreasing (-3), but no resources are used (0).
 
