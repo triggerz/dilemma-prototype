@@ -91,7 +91,7 @@ You experienced a positive effect in output (+3), but John was highly demotivate
 Keep an open mind: You take an open talk with John (you might have missed something in your analysis…) 
 
 # Variables
- - Resources: o
+ - Resources: +0
  - Engagement: -3
  - Output: -3
  - Total: round(((Engagement * Output) / 100) - (100 - Resources))
