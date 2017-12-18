@@ -3,7 +3,7 @@
  - Image: http://res.cloudinary.com/triggerz/image/upload/v1513598129/download_gv6dz4.png
 
 # Description
-You've completed the daily dilemmas.
+You've completed the DAILY DILEMMAS.
 
 Focus on your total score: how was you overall performance?
 
