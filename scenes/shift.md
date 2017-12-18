@@ -38,7 +38,7 @@ So - all in all: A good choice - though such situations are never fun. But next 
 
 # Outcome
 
-You experienced a positive effect in output (+2) but it costed some in Lilly's engagement (-1) as you spent some time convincing Lilly to accept (-1 on Resources) 
+You experienced a positive effect in output (+2) but it costed some in Lilly's engagement (-1). This dilemma was estimated for use of -1 resources, and that is what you used spending some time convincing Lilly to accept (-1 on resources) 
 
 
 # Choice
@@ -66,7 +66,7 @@ So - all in all: A good choice - though such situations are never fun.
 
 # Outcome
 
-You experienced a positive effect in output (+2) but it costed some in Jonas's engagement (-1) as you spent some time convincing Jonas to accept (-1 on Resources) 
+You experienced a positive effect in output (+2) but it costed some in Jonas's engagement (-1). This dilemma was estimated for use of -1 resources, and you uesd that as you spent some time convincing Jonas to accept (-1 on resources) 
 
 
 
@@ -123,5 +123,5 @@ But great that you did not give up. That option must be reserved to cases where 
 
 # Outcome
 
-You experienced a positive effect in output (+2) but it costed  in Achmed's engagement (-2) as you spent some time convincing Achmed to accept (-1 on Resources) 
+You experienced a positive effect in output (+2) but it costed  in Achmed's engagement (-2). This dilemma was estimated for use of -1 resources, and you used that as you spent some time convincing Achmed to accept (-1 on resources) 
 
