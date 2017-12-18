@@ -1,16 +1,16 @@
 # Config
- - Title: Congratulations
- - Image: http://res.cloudinary.com/triggerz/image/upload/v1513598129/download_gv6dz4.png
+ - Title: You've completed the DAILY DILEMMAS
+ - Image: http://res.cloudinary.com/triggerz/image/upload/v1513608249/finish-line_gcbtt2.jpg
 
 # Description
-You've completed the DAILY DILEMMAS.
+Time for a little afterthought:
 
-Focus on your total score: how was you overall performance?
+Consider what you might do differently if you experience similar situations in real life?
 
-Resources are decreasing throughout the dilemmas - you don't have the possibility to add resources during the dilemmas. 
-But how many resources did you use? 
-And did you increase engagement and output?
+You can also review your scores. Average scores are 100 – so above is good, and below is less good.
 
-Consider what you could have differently for next time. 
+How did you do on the 3 individual scores? How did you do on the total?
+
+Thanks for participating!
 
 
