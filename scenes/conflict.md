@@ -1,5 +1,5 @@
 # Config
- - Title: Conflict
+ - Title: A conflict in your team
  - Image: http://res.cloudinary.com/triggerz/image/upload/v1513594352/Billede1_ls6myi.png
  - Next: outro
 
