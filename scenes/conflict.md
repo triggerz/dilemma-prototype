@@ -11,7 +11,7 @@ You have been asking around, and your employees confirm your suspicion. It seems
 
 Individually they both function well. But when they are on the same shift the atmosphere becomes intolerable. 
 
-After analyzing the options, the conclusion is clear: You need to relocate John to another team.
+After a thorough analysis of the options, the conclusion is clear: You need to relocate John to another team.
 
 How will you handle the conversation with John?
 
