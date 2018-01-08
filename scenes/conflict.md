@@ -88,7 +88,7 @@ But good that you didn't choose to keep an open mind - you have already checked 
 You experienced a positive effect in output (+3), but John was highly demotivated, (-3). This dilemma was estimated for use of -1 resource, but since you involved HR you tripled the use of resources used in this case (-3 )
 
 # Choice
-Keep an open mind: You take an open talk with John (you might have missed something in your analysis…) 
+Keep an open mind!!!: You take an open talk with John (you might have missed something in your analysis…) 
 
 # Variables
  - Resources: +0
