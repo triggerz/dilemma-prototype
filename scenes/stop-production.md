@@ -15,7 +15,8 @@ What do you do?
 
 
 # Choice
-Appreciative: Stop the production immediately.
+Stop the production immediately. 
+Too much is at stake - production must stop at least until suspicion about a serious problem is removed.
 
 # Variables
  - Resources: -1
@@ -32,7 +33,8 @@ In this case it would take 2 hours to confirm, so the right action would be to r
 You experienced a negative effect in output (-5) and a sligt losss in engagement as you did not involve anyone else (-1). This dilemma was estimated for use of -1 resource, which is what you used in this case.
 
 # Choice
-Contact your direct manager and ask for advice
+Contact your direct manager and ask for advice.
+This is a decision you should not take by yourself. Reach out to your manager immediately to get a second opinion. 
 
 # Variables
  - Resources: -1
@@ -57,6 +59,7 @@ You experienced a positive effect in output (+3), but John was not happy with yo
 
 # Choice
 Ask a peer for support before you stop production.
+This is a decision you should not take by yourself. Talk to a peer to get support for the decision before you stop production. 
 
 # Variables
  - Resources: -3
